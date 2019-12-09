@@ -2,10 +2,8 @@
 
 
 #ansible
-ssh-copy-id
-zabbix-agent
+ssh-copy-id & zabbix-agent
 
 
 #scripts
-shell
-python
+shell & python
