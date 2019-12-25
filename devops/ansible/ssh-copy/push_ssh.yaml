@@ -1,5 +1,0 @@
-- hosts: ansible
-  remote_user: root
-  tasks:
-  - name: shell
-    command: /opt/scripts/shell/ssh_auto.sh

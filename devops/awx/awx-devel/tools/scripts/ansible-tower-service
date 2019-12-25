@@ -1,4 +1,0 @@
-#!/bin/bash
-
-# Redirect to systemctl
-exec systemctl $@ ansible-tower.service
