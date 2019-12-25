@@ -6,5 +6,10 @@ ssh-copy-id & zabbix-agent
 
 
 #scripts
-shell & python
+--shell
+--python
+
+
+#docker
 --jenkins
+--disconf
