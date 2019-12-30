@@ -1,0 +1,252 @@
+#All-Users 
+ ssh://admin@192.168.11.41:29418/All-Users 
+
+#MobileEditController 
+ ssh://admin@192.168.11.41:29418/MobileEditController 
+
+#NativeSDK 
+ ssh://admin@192.168.11.41:29418/NativeSDK 
+
+#RDPVirtChannelSrv 
+ ssh://admin@192.168.11.41:29418/RDPVirtChannelSrv 
+
+#android_uzer 
+ ssh://admin@192.168.11.41:29418/android_uzer 
+
+#app-center 
+ ssh://admin@192.168.11.41:29418/app-center 
+
+#client 
+ ssh://admin@192.168.11.41:29418/client 
+
+#client_macos 
+ ssh://admin@192.168.11.41:29418/client_macos 
+
+#collaboration 
+ ssh://admin@192.168.11.41:29418/collaboration 
+
+#collaboration_dup 
+ ssh://admin@192.168.11.41:29418/collaboration_dup 
+
+#daemon 
+ ssh://admin@192.168.11.41:29418/daemon 
+
+#daemon_docker 
+ ssh://admin@192.168.11.41:29418/daemon_docker 
+
+#daemon_kvm 
+ ssh://admin@192.168.11.41:29418/daemon_kvm 
+
+#daemon_plus 
+ ssh://admin@192.168.11.41:29418/daemon_plus 
+
+#daemon_rdp 
+ ssh://admin@192.168.11.41:29418/daemon_rdp 
+
+#daemon_webrtc 
+ ssh://admin@192.168.11.41:29418/daemon_webrtc 
+
+#deploy_scripts 
+ ssh://admin@192.168.11.41:29418/deploy_scripts 
+
+#diskmgr 
+ ssh://admin@192.168.11.41:29418/diskmgr 
+
+#docs 
+ ssh://admin@192.168.11.41:29418/docs 
+
+#doudou 
+ ssh://admin@192.168.11.41:29418/doudou 
+
+#eaas-backend 
+ ssh://admin@192.168.11.41:29418/eaas-backend 
+
+#eaas-recording 
+ ssh://admin@192.168.11.41:29418/eaas-recording 
+
+#eaas_all 
+ ssh://admin@192.168.11.41:29418/eaas_all 
+
+#easyOne 
+ ssh://admin@192.168.11.41:29418/easyOne 
+
+#easy_one_backend 
+ ssh://admin@192.168.11.41:29418/easy_one_backend 
+
+#easy_one_frontend 
+ ssh://admin@192.168.11.41:29418/easy_one_frontend 
+
+#erizoClient 
+ ssh://admin@192.168.11.41:29418/erizoClient 
+
+#freerdp-client 
+ ssh://admin@192.168.11.41:29418/freerdp-client 
+
+#gitosis-admin 
+ ssh://admin@192.168.11.41:29418/gitosis-admin 
+
+#licode 
+ ssh://admin@192.168.11.41:29418/licode 
+
+#mcpdoc 
+ ssh://admin@192.168.11.41:29418/mcpdoc 
+
+#mcu 
+ ssh://admin@192.168.11.41:29418/mcu 
+
+#mobile 
+ ssh://admin@192.168.11.41:29418/mobile 
+
+#nodebb-plugin-session-uzerme 
+ ssh://admin@192.168.11.41:29418/nodebb-plugin-session-uzerme 
+
+#nodebb-theme-persona 
+ ssh://admin@192.168.11.41:29418/nodebb-theme-persona 
+
+#openstack 
+ ssh://admin@192.168.11.41:29418/openstack 
+
+#plugin 
+ ssh://admin@192.168.11.41:29418/plugin 
+
+#previewservice 
+ ssh://admin@192.168.11.41:29418/previewservice 
+
+#proxy 
+ ssh://admin@192.168.11.41:29418/proxy 
+
+#resource-manager 
+ ssh://admin@192.168.11.41:29418/resource-manager 
+
+#samba-interface 
+ ssh://admin@192.168.11.41:29418/samba-interface 
+
+#shareCodec 
+ ssh://admin@192.168.11.41:29418/shareCodec 
+
+#sharetome-TA 
+ ssh://admin@192.168.11.41:29418/sharetome-TA 
+
+#sharetome-admin 
+ ssh://admin@192.168.11.41:29418/sharetome-admin 
+
+#sharetome-admin-2.0 
+ ssh://admin@192.168.11.41:29418/sharetome-admin-2.0 
+
+#sharetome-admin-TA 
+ ssh://admin@192.168.11.41:29418/sharetome-admin-TA 
+
+#sharetome-backend 
+ ssh://admin@192.168.11.41:29418/sharetome-backend 
+
+#sharetome-blog 
+ ssh://admin@192.168.11.41:29418/sharetome-blog 
+
+#sharetome-ui 
+ ssh://admin@192.168.11.41:29418/sharetome-ui 
+
+#sharetome-website 
+ ssh://admin@192.168.11.41:29418/sharetome-website 
+
+#sharetome_script 
+ ssh://admin@192.168.11.41:29418/sharetome_script 
+
+#sns 
+ ssh://admin@192.168.11.41:29418/sns 
+
+#stm_all 
+ ssh://admin@192.168.11.41:29418/stm_all 
+
+#storage 
+ ssh://admin@192.168.11.41:29418/storage 
+
+#uzer 
+ ssh://admin@192.168.11.41:29418/uzer 
+
+#uzer-admin 
+ ssh://admin@192.168.11.41:29418/uzer-admin 
+
+#uzer-bbs 
+ ssh://admin@192.168.11.41:29418/uzer-bbs 
+
+#uzer-blog 
+ ssh://admin@192.168.11.41:29418/uzer-blog 
+
+#uzer-conference 
+ ssh://admin@192.168.11.41:29418/uzer-conference 
+
+#uzer-desktop 
+ ssh://admin@192.168.11.41:29418/uzer-desktop 
+
+#uzer-eaas 
+ ssh://admin@192.168.11.41:29418/uzer-eaas 
+
+#uzer-eaas-admin 
+ ssh://admin@192.168.11.41:29418/uzer-eaas-admin 
+
+#uzer-eaas-sdk 
+ ssh://admin@192.168.11.41:29418/uzer-eaas-sdk 
+
+#uzer-ext 
+ ssh://admin@192.168.11.41:29418/uzer-ext 
+
+#uzer-trace-sdk 
+ ssh://admin@192.168.11.41:29418/uzer-trace-sdk 
+
+#uzer-website 
+ ssh://admin@192.168.11.41:29418/uzer-website 
+
+#uzerme-backend 
+ ssh://admin@192.168.11.41:29418/uzerme-backend 
+
+#uzerme-ios 
+ ssh://admin@192.168.11.41:29418/uzerme-ios 
+
+#uzerme-ipad 
+ ssh://admin@192.168.11.41:29418/uzerme-ipad 
+
+#vehicle 
+ ssh://admin@192.168.11.41:29418/vehicle 
+
+#vmmgr 
+ ssh://admin@192.168.11.41:29418/vmmgr 
+
+#vpn 
+ ssh://admin@192.168.11.41:29418/vpn 
+
+#vpn-mifi 
+ ssh://admin@192.168.11.41:29418/vpn-mifi 
+
+#vpn-mifi-sdk 
+ ssh://admin@192.168.11.41:29418/vpn-mifi-sdk 
+
+#webrtc 
+ ssh://admin@192.168.11.41:29418/webrtc 
+
+#xmodule 
+ ssh://admin@192.168.11.41:29418/xmodule 
+
+#xt-meeting 
+ ssh://admin@192.168.11.41:29418/xt-meeting 
+
+#xt_freerdp 
+ ssh://admin@192.168.11.41:29418/xt_freerdp 
+
+#xtapp 
+ ssh://admin@192.168.11.41:29418/xtapp 
+
+#xtapp-cetc 
+ ssh://admin@192.168.11.41:29418/xtapp-cetc 
+
+#xtapp-jxcl 
+ ssh://admin@192.168.11.41:29418/xtapp-jxcl 
+
+#xtmr 
+ ssh://admin@192.168.11.41:29418/xtmr 
+
+#xtwebsite 
+ ssh://admin@192.168.11.41:29418/xtwebsite 
+
+#zabbix 
+ ssh://admin@192.168.11.41:29418/zabbix 
+
